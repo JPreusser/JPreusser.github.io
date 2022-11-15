@@ -10,33 +10,34 @@ redirect_from:
 
 Hi!
 I am a Ph.D. student in Economics at the University of Bonn.
-My main research interests are in economic theory, with primary interests in mechanism design without money and secondary interests in information design.
+
+My main research interests are in economic theory, with primary interests in mechanism design without money.
 
 I will be on the 2022/23 job market and available for interviews in December and January.
 
-You can reach me at `firstname.lastname@uni-bonn.de`.
+You can reach me at `justus.preusser@uni-bonn.de`.
 
-You can find my CV [here](https://jpreusser.github.io/files/CV.pdf).
+You can find my CV [here](https://jpreusser.github.io/files/preusser-cv.pdf).
 
 <h2>Job market paper</h2>
 
-[Simple allocation with correlated types](https://jpreusser.github.io/files/simple_allocation.pdf)
+- [Simple allocation with correlated types](https://jpreusser.github.io/files/simple_allocation.pdf)
 (with [Axel Niemeyer](https://sites.google.com/view/axelniemeyer))
 
-<details>
-  <summary>Abstract</summary>
-    An object is to be allocated among a number of agents.
-    The efficient allocation depends on the agents' information about their peers, but each agent wants the object for themself.
-    Monetary transfers are unavailable.
-    We consider mechanisms where it is a dominant strategy to report one's information truthfully.
+  - <details>
+      <summary>Abstract</summary>
+        An object is to be allocated among a number of agents.
+        The efficient allocation depends on the agents' information about their peers, but each agent wants the object for themself.
+        Monetary transfers are unavailable.
+        We consider mechanisms where it is a dominant strategy to report one's information truthfully.
 
-    On the negative side, deterministic mechanisms do not suffice outside of special cases.
-    Anonymous mechanisms cannot elicit any information.
+        On the negative side, deterministic mechanisms do not suffice outside of special cases.
+        Anonymous mechanisms cannot elicit any information.
 
-    On the positive side, there are simple mechanisms---jury mechanisms---that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
-    In a jury mechanism, each agent is either a juror or a candidate.
-    The jurors decide which of the candidates wins the object; jurors never win.
-</details>
+        On the positive side, there are simple mechanisms---jury mechanisms---that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
+        In a jury mechanism, each agent is either a juror or a candidate.
+        The jurors decide which of the candidates wins the object; jurors never win.
+    </details>
 
 
 
