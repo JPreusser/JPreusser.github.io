@@ -11,7 +11,7 @@ redirect_from:
 Hi!
 I am a Ph.D. student in Economics at the University of Bonn.
 
-My main research interests are in economic theory, with primary interests in mechanism design without money.
+Research interests: Economic theory, particularly mechanism design without money.
 
 I will be on the 2022/23 job market and available for interviews in December and January.
 
