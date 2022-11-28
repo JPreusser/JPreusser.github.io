@@ -25,18 +25,17 @@ You can find my CV [here](https://jpreusser.github.io/files/preusser-cv.pdf).
 (with [Axel Niemeyer](https://sites.google.com/view/axelniemeyer))
 
   - <details>
-      <summary>Abstract</summary>
-        An object is to be allocated among a number of agents.
+      <summary>Abstract</summary>    
+        An object must be allocated among a number of agents.
         The efficient allocation depends on the agents' information about their peers, but each agent wants the object for themself.
         Monetary transfers are unavailable.
-        We consider mechanisms where it is a dominant strategy to report one's information truthfully.
+        We consider mechanisms where it is a dominant strategy to report truthfully.
 
-        On the negative side, deterministic mechanisms do not suffice outside of special cases.
-        Anonymous mechanisms cannot elicit any information.
+        On the negative side, deterministic mechanisms do not generally suffice, and anonymous mechanisms cannot elicit any information.
 
-        On the positive side, there are simple mechanisms---jury mechanisms---that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
+        On the positive side, there are simple mechanisms-jury mechanisms-that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
         In a jury mechanism, each agent is either a juror or a candidate.
-        The jurors decide which of the candidates wins the object; jurors never win.
+        The jurors decide which candidate wins the object; jurors never win.
     </details>
 
 
