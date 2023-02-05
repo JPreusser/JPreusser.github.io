@@ -17,7 +17,7 @@ I will be on the 2022/23 job market and available for interviews in December and
 
 You can reach me at `justus.preusser@uni-bonn.de`.
 
-You can find my CV [here](https://jpreusser.github.io/files/preusser-cv.pdf).
+You can find my CV [here](https://jpreusser.github.io/files/cv.pdf).
 
 <h2>Job market paper</h2>
 
@@ -26,16 +26,14 @@ You can find my CV [here](https://jpreusser.github.io/files/preusser-cv.pdf).
 
   - <details>
       <summary>Abstract</summary>    
-        An object must be allocated among a number of agents.
-        The efficient allocation depends on the agents' information about their peers, but each agent wants the object for themself.
+        An object is allocated among a number of agents.
+        The optimal allocation depends on the agents' information about their peers, but each agent wants the object for themself.
         Monetary transfers are unavailable.
         We consider mechanisms where it is a dominant strategy to report truthfully.
-
-        On the negative side, deterministic mechanisms do not generally suffice, and anonymous mechanisms cannot elicit any information.
-
-        On the positive side, there are simple mechanisms-jury mechanisms-that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
+        We show that deterministic mechanisms do not generally suffice for implementation and optimality, and that anonymous mechanisms cannot meaningfully elicit information.
+        However, there are simple mechanisms---jury mechanisms---that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
         In a jury mechanism, each agent is either a juror or a candidate.
-        The jurors decide which candidate wins the object; jurors never win.
+        The jurors decide which candidate wins the object, but jurors never win.
     </details>
 
 
