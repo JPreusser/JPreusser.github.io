@@ -40,8 +40,9 @@ You can find my CV [here](https://jpreusser.github.io/files/cv.pdf).
 - [Mechanisms without transfers for fully biased agents](https://arxiv.org/pdf/2205.10910.pdf)
 (with [Deniz Kattwinkel](https://sites.google.com/view/kattwinkel), [Axel Niemeyer](https://sites.google.com/view/axelniemeyer) and [Alexander Winter](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/alexander-winter))
 
-    <!-- > [Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22. -->
     - [Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22.
+    
+    - [Youtube link](https://www.youtube.com/watch?v=0DAxMoHpAeA) to recording of a 60 minute presentation that Deniz gave at [VSET](https://sites.google.com/view/vset).
 
 <!--     - <details>
         <summary>Abstract</summary>
