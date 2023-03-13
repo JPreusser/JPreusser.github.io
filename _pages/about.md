@@ -42,7 +42,7 @@ You can find my CV [here](https://jpreusser.github.io/files/cv.pdf).
 
     - [Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22.
     
-    - [Youtube link](https://www.youtube.com/watch?v=0DAxMoHpAeA) to recording of a 60 minute presentation that Deniz gave at [VSET](https://sites.google.com/view/vset).
+    - [Youtube link](https://www.youtube.com/watch?v=0DAxMoHpAeA) to a 60 minute presentation that Deniz gave at [VSET](https://sites.google.com/view/vset).
 
 <!--     - <details>
         <summary>Abstract</summary>
