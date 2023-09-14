@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 Hi!
-I am a Ph.D. student in Economics at the University of Bonn.
+I am a postdoctoral researcher at Bocconi University. I am interested in microeconomic theory, particularly mechanism design without money.
 
-Research interests: Economic theory, particularly mechanism design without money.
-
-You can reach me at `justus.preusser@uni-bonn.de`.
+You can reach me at `justus.preusser@unibocconi.it`.
 
 You can find my CV [here](https://jpreusser.github.io/files/cv.pdf).
 
