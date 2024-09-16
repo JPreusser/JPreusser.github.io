@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "picture.jpg"
+  avatar           : 
   bio              :
   location         :
   employer         :
